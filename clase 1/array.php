@@ -8,4 +8,7 @@
 
 	$vector[] = 'banana';
 	var_dump($vector);
+
+	$vector[] = 'tomato';
+	var_dump($vector);
  ?>
