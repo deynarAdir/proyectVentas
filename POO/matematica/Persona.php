@@ -14,4 +14,3 @@
 			echo "hola te saluda $this->nombre que tal";
 		}
 	}
- ?>
